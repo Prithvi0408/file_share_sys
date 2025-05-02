@@ -3,11 +3,14 @@ The Serverless File Sharing Platform allows users to securely upload and downloa
 
 Use Cases:
 
-File Sharing: Users can upload files to the platform using a POST request, specifying the file name and content. This can be useful for sharing documents, images, or any other digital assets securely.
+File Sharing: Users can upload files to the platform using a POST request, specifying the file name and content.
+This can be useful for sharing documents, images, or any other digital assets securely.
 File Distribution: Content creators can distribute files (e.g., software updates, media files) to consumers by generating download links through the platform.
+
 Collaborative Work: Teams can share project resources, documents, and data securely, facilitating collaboration across different locations.
 Project Architecture:
-Screenshot 2024-07-09 at 10 38 15 PM
-Steps to Build the Project:
+
+![image](https://github.com/user-attachments/assets/96ad3212-5ae0-4d07-b6a4-51a41050fcaf)
+
 Prerequisites
 AWS Account with appropriate permissions to create Lambda functions, API Gateway, and S3 buckets.# file_share_sys
